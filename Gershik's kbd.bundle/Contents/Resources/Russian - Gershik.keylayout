@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 330 on 2020-12-03 at 16:53 (GMT+3)-->
+<!--Last edited by Ukelele version 330 on 2020-12-05 at 10:49 (GMT+3)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
-<keyboard group="126" id="-3198" name="Russian - Gershik" maxout="3">
+<keyboard group="126" id="-29060" name="Russian - Gershik" maxout="3">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="994" modifiers="f4"/>
@@ -398,7 +398,7 @@
             <key code="9" output="↓"/>
             <key code="10" output="`"/>
             <key code="11" output="ß"/>
-            <key code="12" output=""/>
+            <key code="12" output="¨"/>
             <key code="13" output="✓"/>
             <key code="14" output="ў"/>
             <key code="15" output="®"/>
@@ -642,9 +642,9 @@
             <key code="29" output="º"/>
             <key code="30" output="‘"/>
             <key code="31" output="Ø"/>
-            <key code="32" output="¨"/>
+            <key code="32" output="Ґ"/>
             <key code="33" output="“"/>
-            <key code="34" output="ˆ"/>
+            <key code="34" output="І"/>
             <key code="35" output="∏"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="Ò"/>
@@ -652,7 +652,7 @@
             <key code="39" output="Є"/>
             <key code="40" output="˚"/>
             <key code="41" output="…"/>
-            <key code="42" output="«"/>
+            <key code="42" output="ˆ"/>
             <key code="43" output="≤"/>
             <key code="44" output="÷"/>
             <key code="45" output="˜"/>
