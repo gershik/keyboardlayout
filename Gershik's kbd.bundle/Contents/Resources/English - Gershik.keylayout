@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 330 on 2020-12-04 at 19:25 (GMT+3)-->
+<!--Last edited by Ukelele version 343 on 2021-04-09 at 18:18 (GMT+3)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
-<keyboard group="126" id="-29042" name="English - Gershik" maxout="3">
+<keyboard group="126" id="-13704" name="English - Gershik" maxout="3">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="994" modifiers="f4"/>
@@ -89,7 +89,7 @@
             <key code="39" output="&#x0027;"/>
             <key code="40" action="k"/>
             <key code="41" output=";"/>
-            <key code="42" output="/"/>
+            <key code="42" output="\"/>
             <key code="43" output=","/>
             <key code="44" output="/"/>
             <key code="45" action="16"/>
