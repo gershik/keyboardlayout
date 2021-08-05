@@ -15,7 +15,12 @@ Modified version of [Ilya Birman's Typography Layout](https://ilyabirman.ru/type
 10. Done!
 
 ### Windows
-Coming soon...
+1. Head to [releases](https://github.com/gershik/keyboardlayout/releases) and download the latest Windows zip file
+2. Extract the archive and run `setup.exe` in each language's folder
+3. Log out from your session and log back in
+4. Go to Settings -> Time & Language -> Language
+5. Delete the unwanted system layouts
+6. Done!
 
 ## Screenshots
 ### Russian
