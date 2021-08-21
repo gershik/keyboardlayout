@@ -1,6 +1,5 @@
 ---
 layout: page
-<<<<<<< HEAD
 title: gershik's modified keyboard layot
 permalink: /english/
 ---
@@ -8,13 +7,6 @@ permalink: /english/
 # What is this?
 
 This is a modified version of [Ilya Birman's Typography Layout](https://ilyabirman.ru/type). It replaces your system keyboard layouts, so you can type special characters right from your keyboard. 
-=======
-title: gershik's modified keyboard layout
-permalink: /english/
----
-# keyboardlayout
-Modified version of [Ilya Birman's Typography Layout](https://ilyabirman.ru/type) with Ukrainian letters and some small things
->>>>>>> 4cd1568b34a0fc5b48708105b51f15b6af6783b1
 
 ## Installation
 ### macOS
@@ -37,7 +29,6 @@ Modified version of [Ilya Birman's Typography Layout](https://ilyabirman.ru/type
 5. Delete the unwanted system layouts
 6. Done!
 
-<<<<<<< HEAD
 ## Screenshots
 ### Russian
 ![Defalut](screenshots/ru.png)
@@ -56,8 +47,3 @@ Modified version of [Ilya Birman's Typography Layout](https://ilyabirman.ru/type
 ## Credits
 * Ilya Birman for his [original keyboard layout](https://ilyabirman.ru/type)
 * SIL for [Ukelele](https://software.sil.org/ukelele/), the software used to create these things on macOS
-=======
-## Credits
-* Ilya Birman for his [original keyboard layout](https://ilyabirman.ru/type)
-* SIL for [Ukelele](https://software.sil.org/ukelele/), the software used to create these things on macOS
->>>>>>> 4cd1568b34a0fc5b48708105b51f15b6af6783b1
