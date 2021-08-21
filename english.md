@@ -1,3 +1,8 @@
+---
+layout: page
+title: gershik's modified keyboard layout
+permalink: /english/
+---
 # keyboardlayout
 Modified version of [Ilya Birman's Typography Layout](https://ilyabirman.ru/type) with Ukrainian letters and some small things
 
