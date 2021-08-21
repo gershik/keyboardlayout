@@ -1,0 +1,36 @@
+@media (prefers-color-scheme: dark) {
+	body {
+		background: #1e1e1e;
+		color: #ffffff;
+	}
+	li a, li a:after {
+		color: #0088cc;
+	}
+}
+
+/* .markdown-body h1, .markdown-body h2 {
+    border-bottom: none;
+} */
+
+/* link underline animation */
+li a, li a:visited {
+    /* remove link decorations */
+	text-decoration: none;
+	position: relative;
+}
+li a:after, li a:visited:after, li p:after {
+	content: '';
+	height: 3px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 0%;
+	transition: 0.3s;
+}
+
+li a:hover:after,
+li a:visited:hover:after,
+li p:hover:after {
+    width: 100%;
+}
+/**/
